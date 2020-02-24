@@ -11,7 +11,7 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/igor-apolinario/',
     instagram: 'https://instagram.com/igor_apolinario',
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: 'UA-159008875-1',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {
